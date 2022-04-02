@@ -1,0 +1,31 @@
+.success__crumbs {
+  font-family: "Open Sans", sans-serif;
+  color: white;
+  background-color: #0072bc;
+  padding: 5px;
+}
+
+.success__crumbs-link {
+  color: white;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+.success__top {
+  margin-top: 40px;
+  margin-bottom: 10px;
+}
+
+.p-text {
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  margin-bottom: 30px;
+  text-align: justify;
+}
+
+.historyBlock {
+  margin-bottom: 100px;
+  margin-top: 40px;
+}
